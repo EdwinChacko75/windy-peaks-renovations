@@ -1,3 +1,3 @@
 # windy-peaks-renovations
 The official website for Windy Peaks Renovations <br/>
-https://edwinchacko75.github.io/windy-peaks-renovations/
+<a href="http://example.com/" target="_blank">https://edwinchacko75.github.io/windy-peaks-renovations/</a>
