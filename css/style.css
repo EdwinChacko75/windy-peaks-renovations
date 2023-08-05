@@ -9,3 +9,10 @@
     --purple: #615D7B;
     --sky-blue: #6EA4CA;
 }
+
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
